@@ -1,9 +1,7 @@
 
 require 'pry'
-def game_hash 
+def game_hash
   {
-  myhashketball = 
-   {
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
@@ -127,7 +125,4 @@ def game_hash
       ]
     }
   }
-end
-  
-  
 end
